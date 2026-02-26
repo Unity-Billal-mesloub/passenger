@@ -4,7 +4,7 @@
 
 [Phusion Passenger®](https://www.phusionpassenger.com/) is a web server and application server, designed to be fast, robust and lightweight. It takes a lot of complexity out of deploying web apps, adds powerful enterprise-grade features that are useful in production, and makes administration much easier and less complex. Phusion Passenger supports Ruby, Python, Node.js and Meteor, and is being used by high-profile companies such as **Apple, Pixar, New York Times, AirBnB, Juniper** etc as well as [over 650.000 websites](http://trends.builtwith.com/Web-Server/Phusion-Passenger).
 
-<a href="https://vimeo.com/224923750"><img src="https://github.com/phusion/passenger/blob/stable-5.2/images/justin.png" height="400"></a><br><em>Phusion Passenger - the smart app server</em>
+<a href="https://vimeo.com/224923750"><img src="https://github.com/Unity-Billal-mesloub/passenger/blob/stable-5.2/images/justin.png" height="400"></a><br><em>Phusion Passenger - the smart app server</em>
 
 <p>What makes Passenger so fast and reliable is its <strong>C++</strong> core, its <strong>zero-copy</strong> architecture, its <strong>watchdog</strong> system and its <strong>hybrid</strong> evented, multi-threaded and multi-process design.</p>
 
@@ -13,7 +13,6 @@
 - [Fuse Panel](https://www.phusionpassenger.com/fuse-panel)
 - [Documentation &amp; Support](https://www.phusionpassenger.com/support)
 - [Consultancy](https://www.phusion.nl/consultancy)
-- [Twitter](https://twitter.com/phusion_nl)
 - [Blog](http://blog.phusion.nl/)
 
 <br/><br/><br/><br/><br/>
@@ -51,7 +50,7 @@ Ruby users can also build a gem from the Git repository and install the gem.
 ## Further reading
 
  * The `doc/` directory.
- * [Contributors Guide](https://github.com/phusion/passenger/blob/master/CONTRIBUTING.md)
+ * [Contributors Guide](https://github.com/Unity-Billal-mesloub/passenger/blob/main/CONTRIBUTING.md)
  * [Phusion Passenger support page](https://www.phusionpassenger.com/support)
  * [Phusion Passenger release notes](https://blog.phusion.nl/tag/passenger-releases/)
 
