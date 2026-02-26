@@ -31,7 +31,7 @@ You can contribute in one of the following areas:
 
 We require contributors to sign our [contributor agreement](https://www.phusion.nl/contributor) before we can merge their patches.
 
-Please submit patches in the form of a Github pull request or as a patch on the [bug tracker](https://github.com/phusion/passenger/issues). Pull requests are preferred and generally get more attention because Github has better email notifications and better discussion capabilities.
+Please submit patches in the form of a Github pull request or as a patch on the [bug tracker](https://github.com/Unity-Billal-mesloub/passenger/issues). Pull requests are preferred and generally get more attention because Github has better email notifications and better discussion capabilities.
 
 You should also install required developer tools. The following command will install everything you need:
 
@@ -56,12 +56,12 @@ When filing a bug report, please ensure that you include the following informati
 
 All good software should have good documentation, and we take this very seriously. However writing and maintaining quality documentation is not an easy task. If you are not skilled in C++ or programming, then writing documentation is the easiest way to contribute.
 
-Most documentation can be located in the `doc` directory, and are either written in Markdown or in Asciidoc format. They can be compiled to HTML with `rake doc`. You need [Mizuho](https://github.com/FooBarWidget/mizuho) to compile Asciidoc and [BlueCloth](http://deveiate.org/projects/BlueCloth) to compile Markdown. Both gems are automatically installed as part of the Phusion Passenger developer tools.
+Most documentation can be located in the `doc` directory, and are either written in Markdown or in Asciidoc format. They can be compiled to HTML with `rake doc`. You need [Mizuho](https://github.com/Unity-Billal-mesloub/mizuho) to compile Asciidoc and [BlueCloth](http://deveiate.org/projects/BlueCloth) to compile Markdown. Both gems are automatically installed as part of the Phusion Passenger developer tools.
 
 <a name="contrib_tiag"></a>
 ## Contributing by bug triaging
 
-Users [file bug reports](https://github.com/phusion/passenger/issues) on a regular basis, but not all bug reports are legit,contain sufficient information, are equally important, etc. By helping with bug triaging you make the lives of the core developers a lot easier.
+Users [file bug reports](https://github.com/Unity-Billal-mesloub/passenger/issues) on a regular basis, but not all bug reports are legit,contain sufficient information, are equally important, etc. By helping with bug triaging you make the lives of the core developers a lot easier.
 
 To start contributing, please submit a comment on any bug report that needs triaging. This comment should contain triaging instructions, e.g. whether a report should be considered duplicate. If you contribute regularly we'll give you moderator access to the bug tracker so that you can apply triaging labels directly.
 
@@ -92,7 +92,7 @@ Phusion Passenger is mostly written in C++, but the build system and various sma
 
 _Watch the Developer QuickStart screencast_
 
-We provide an easy and convenient development environment that contributors can use. Learn more at the [Developer QuickStart](https://github.com/phusion/passenger/blob/master/doc/DeveloperQuickstart.md).
+We provide an easy and convenient development environment that contributors can use. Learn more at the [Developer QuickStart](https://github.com/Unity-Billal-mesloub/passenger/blob/main/doc/DeveloperQuickstart.md).
 
 <a name="design_and_architecture"></a>
 ### Design and Architecture
@@ -121,7 +121,7 @@ It is recommended that you install ccache and set the `USE_CCACHE=1` environment
 <a name="unit_tests"></a>
 ### Running the unit tests
 
-The tests depend on the Phusion Passenger developer tools. If you're not using our [Vagrant environment](https://github.com/phusion/passenger/blob/master/doc/DeveloperQuickstart.md), you need to make sure they're installed:
+The tests depend on the Phusion Passenger developer tools. If you're not using our [Vagrant environment](https://github.com/Unity-Billal-mesloub/passenger/blob/main/doc/DeveloperQuickstart.md), you need to make sure they're installed:
 
     rake test:install_deps
 
@@ -348,7 +348,7 @@ A good and comprehensive, but rather large source for learning POSIX is the [POS
 <a name="further_reading"></a>
 ### Further reading
 
- * [Coding Tips and Pitfalls](https://github.com/phusion/passenger/blob/master/doc/CodingTipsAndPitfalls.md)
+ * [Coding Tips and Pitfalls](https://github.com/Unity-Billal-mesloub/passenger/blob/main/doc/CodingTipsAndPitfalls.md)
 
 <a name="pull_requests"></a>
 ### Pull requests
